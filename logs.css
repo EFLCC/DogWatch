@@ -1,0 +1,30 @@
+/* === DVW3 | Route Logs Styles === */
+
+body {
+  background: linear-gradient(135deg, #0b1a3d, #122b5c);
+  color: #fff;
+  font-family: "Segoe UI", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: rgba(0, 0, 0, 0.3);
+  padding: 1rem 2rem;
+}
+
+.log-container {
+  padding: 2rem;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.log-entry {
+  background: rgba(255,255,255,0.1);
+  margin: 1rem 0;
+  padding: 1rem;
+  border-radius: 8px;
+}

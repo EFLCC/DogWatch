@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+input {
+    margin: 5px 0;
+    padding: 5px;
+    width: 200px;
+}
+
+button {
+    padding: 5px 10px;
+}
+
+#registerMessage, #loginMessage {
+    margin-top: 10px;
+    font-weight: bold;
+}
